@@ -36,7 +36,6 @@ Tools: Selenium, Matplotlib, Seaborn
 pip install -r requirements.txt
 Run command in terminal
 streamlit run home.py 
-<style> .column { width: 50%; display: inline-block; box-sizing: border-box; /* To include padding and border in the element's total width and height */ } .column img { max-width: 100%; height: auto; /* Maintain aspect ratio */ display: block; /* Prevent extra space below inline images */ } </style>
 
 
 Languages
